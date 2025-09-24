@@ -143,4 +143,4 @@ Inspect the debug log output sent to to the console and you should see the gener
 
 ## Deploying and Testing from Agentforce
 
-Complete the steps above to test from Apex. After this Agents and actions will have been deployed to your org. For instructions on how to interact with those agents, such as the Koa Cars agent, please refer to the workshop Agent testing steps [here](https://workshops-content.ukoreh.com/applink-agentforce/heroku-applink.html), ignore all other setup steps.
+Complete the steps above to test from Apex. After this Agents and actions will have been deployed to your org. For instructions on how to interact with those agents, such as the Koa Cars agent, please refer to the workshop Agent testing steps [here](https://workshops-content.ukoreh.com/applink-agentforce/), ignore all other setup steps.
