@@ -14,7 +14,7 @@
 
 ## Org Setup
 
-If you are not taking part in a Heroku Workshop you will need your own Salesforce org such as a Sanbdox, Developer Edition or Scratch org. To use the actions in this repository you will need some objects, data and Agentforce agents.
+If you are not taking part in a Heroku Workshop you will need your own Salesforce org such as a Sandbox, Developer Edition or Scratch org. To use the actions in this repository you will need some objects, data and Agentforce agents.
 
 ```
 sf org login web --alias my-org
